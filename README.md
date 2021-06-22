@@ -3,3 +3,4 @@
 Foo
 
 bar
+baz
